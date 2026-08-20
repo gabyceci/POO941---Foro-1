@@ -1,6 +1,7 @@
-**Estudiantes
-Jose Alejandro Henríquez Hernández 
-Gabriela Cecibel Arévalo Molina 
-David Josué Pérez Hernández 
-Alisson Andrea Lopez Vasquez  
-Diego Andrés Guevara Girón 
+## Estudiantes
+
+- **José Alejandro Henríquez Hernández**
+- **Gabriela Cecibel Arévalo Molina**
+- **David Josué Pérez Hernández**
+- **Alisson Andrea López Vásquez**
+- **Diego Andrés Guevara Girón**
